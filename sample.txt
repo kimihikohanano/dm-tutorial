@@ -1,1 +1,3 @@
 “This is a sample file.
+
+This part is updated.
